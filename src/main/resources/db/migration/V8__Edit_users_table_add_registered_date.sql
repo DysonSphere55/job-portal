@@ -1,0 +1,1 @@
+ALTER TABLE users ADD registered_date TIMESTAMP DEFAULT NOW();
